@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.extraPaths": [
+        "./venvpost/CEDERJ_2022_MAYK_PEDRO-dev (1)/CEDERJ_2022_MAYK_PEDRO-dev"
+    ]
+}

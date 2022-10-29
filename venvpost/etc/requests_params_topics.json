@@ -1,0 +1,122 @@
+{
+    "search-page": {
+        "url": "https://www.quora.com/graphql/gql_para_POST?q=SearchResultsListQuery",
+        "headers": {
+            "accept": "*/*",
+            "content-type": "application/json; charset=utf-8",
+            "quora-formkey": "2f8ae0683ce1bb7e6178de78c8c6b012",
+            "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0"
+        },
+        "payload": {
+            "queryName": "SearchResultsListQuery",
+            "extensions": {
+                "hash": "e6e06ddf5e65dbac47b6f0f72d9f4cfd01b7182731f3aa44590c35e15d348127"
+            },
+            "variables": {
+                "query": "",
+                "resultType": "topic",
+                "disableSpellCheck": null,
+                "author": null,
+                "time": "all_times",
+                "first": 10,
+                "after": "-1",
+                "tribeId": null
+            }
+        },
+        "cookies": {
+            "m-b": "1hEAFG_NhtGDK7weKJGssQ==",
+            "m-b_lax": "1hEAFG_NhtGDK7weKJGssQ==",
+            "m-b_strict": "1hEAFG_NhtGDK7weKJGssQ==",
+            "m-s": "5TeCpX73Bg3MeiBd5Bs0BA==",
+            "m-ans_frontend_early_version": "ae5f6cbbbbf75641",
+            "m-lat": "OcxeQ-ikW4iphdRpMCu1VA==",
+            "m-login": "1",
+            "m-theme": "light",
+            "__gads": "ID=378fe8c4e52ebd20:T=1639918620:S=ALNI_MZZ95BB5mnEQPGj7Rapfcl8DOwkNg",
+            "m-dynamicFontSize": "regular",
+            "G_ENABLED_IDPS": "google"
+        }
+    },
+    "topic-page": {
+        "url": "https://www.quora.com/graphql/gql_para_POST?q=MultifeedQuery",
+        "headers":{
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Referer": "https://www.quora.com/topic/HIV",
+            "Content-Type": "application/json",
+            "Quora-Window-Id": "react_paoehmazchjyudof",
+            "Quora-Formkey": "2f8ae0683ce1bb7e6178de78c8c6b012",
+            "Quora-Broadcast-Id": "main-w-chan52-8888-react_paoehmazchjyudof-QAHY",
+            "Quora-Revision": "c599c6fc0fc88df5ff081fa947e7329bb82b6698"
+        },
+        "payload":{
+            "queryName":"MultifeedQuery",
+            "variables":{
+                "first":10,
+                "multifeedAfter":"4990715076633838089",
+                "multifeedNumBundlesOnClient":0,
+                "injectionType":null,
+                "injectionData":null,
+                "filterStoryType":null,
+                "filterStoryOid":null,
+                "multifeedPage":"topic",
+                "pageData":"",
+                "showLiveBanner":false
+            },
+            "extensions":{
+                "hash":"7e23255c6e6cfb73edfbc06e60b3163c4655b680b54f28d1f700be0d478aa5fd"
+            }
+        },
+        "cookies":{
+            "m-b_lax": "1hEAFG_NhtGDK7weKJGssQ==",
+            "m-b_strict": "1hEAFG_NhtGDK7weKJGssQ==", 
+            "m-s": "5TeCpX73Bg3MeiBd5Bs0BA==", 
+            "m-uid": "1780127627", 
+            "m-lat": "OcxeQ-ikW4iphdRpMCu1VA==", 
+            "m-login": "1", 
+            "m-theme": "light", 
+            "m-dynamicFontSize": "regular", 
+            "__stripe_mid": "865207e1-11d7-4d5f-9829-806309458859ce59d7", 
+            "__cf_bm": "DLizpuBuCo03jE5u.BAai9aogSWC88OaBBAc2pWe.K8-1666817056-0-AcgrAlrTE4NlCJTDzFev8ELEX+6qjGy9cDe0b4OrPJjg/4aWVpSL3WFX6nATwCXcAwM1y2MVJ06M4+FxAnfEyKM=", 
+            "__stripe_sid": "e3604354-d38b-4152-a27b-36f771e15767d9b477"
+        
+        }
+
+    },
+    "question-page": {
+        "url": "https://www.quora.com/graphql/gql_para_POST?q=QuestionAnswerPagedListQuery",
+        "headers": {
+            "accept": "*/*",
+            "content-type": "application/json",
+            "quora-formkey": "4e2f3cc4d5541d2b06f89674b6f7e913",
+            "user-agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+        },
+        "payload": {
+            "extensions": {
+                "hash": "10a4b6ece0ef43b3ddcacb0a29ef2e3f0b8aed67ba53f315a0ffa235fa9a34c1"
+            },
+            "queryName": "QuestionAnswerPagedListQuery",
+            "variables": {
+                "after": "-1",
+                "first": 12,
+                "forceScoreVersion": null,
+                "qid": "",
+                "refetch": false,
+                "topAid": null
+            }
+        },
+        "cookies": {
+            "m-b": "1lWLaLC6TabaFURq1eUe9g==",
+            "m-b_lax": "1lWLaLC6TabaFURq1eUe9g==",
+            "m-b_strict": "1lWLaLC6TabaFURq1eUe9g==",
+            "m-s": "1wIP-r-FUM_s7-YB8tltqw==",
+            "m-ans_frontend_early_version": "15e8ef229a88a1e1",
+            "m-dynamicFontSize": "regular",
+            "__aaxsc": "2",
+            "G_ENABLED_IDPS": "google",
+            "m-sa": "1",
+            "__stripe_mid": "65bc9aca-a221-4ebf-b394-d1039a8ead007141f8",
+            "aasd": "1%7C1645871857292"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "search-page": {
+        "url": "https://www.quora.com/graphql/gql_para_POST?q=SearchResultsListQuery",
+        "headers": {
+            "accept": "*/*",
+            "content-type": "application/json; charset=utf-8",
+            "quora-formkey": "2f8ae0683ce1bb7e6178de78c8c6b012",
+            "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0"
+        },
+        "payload": {
+            "queryName": "SearchResultsListQuery",
+            "extensions": {
+                "hash": "e6e06ddf5e65dbac47b6f0f72d9f4cfd01b7182731f3aa44590c35e15d348127"
+            },
+            "variables": {
+                "query": "",
+                "resultType": "post",
+                "disableSpellCheck": null,
+                "author": null,
+                "time": "all_times",
+                "first": 10,
+                "after": "-1",
+                "tribeId": null
+            }
+        },
+        "cookies": {
+            "m-b": "qW4Oe6NeR8Py1-v_ysx7GA==",
+            "m-b_lax": "qW4Oe6NeR8Py1-v_ysx7GA==",
+            "m-b_strict": "qW4Oe6NeR8Py1-v_ysx7GA==",
+            "m-s": "fe0-OgVlys1B4yBIZBPvoQ==",
+            "m-ans_frontend_early_version": "ae5f6cbbbbf75641",
+            "m-lat": "hF04eFilhOUl1YptRZHwxg==",
+            "m-login": "1",
+            "m-theme": "light",
+            "__gads": "ID=29efe41139dfd3e8:T=1666291786:S=ALNI_MaYOSrJXn5FjxYdqQK4kn6nPvFZJw",
+            "m-dynamicFontSize": "regular",
+            "G_ENABLED_IDPS": "google"
+        }
+    },
+    "post-page": {
+        "url": "https://www.quora.com/graphql/gql_para_POST?q=SearchResultsListQuery",
+        "headers":{
+            "Accept": "*/*",
+            "Accept-Language": "pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3",
+            "Referer": "https://www.quora.com/search?q=hiv&type=post",
+            "Content-Type": "application/json",
+            "Quora-Window-Id": "react_twlonxdyxbfpaxgy",
+            "Quora-Formkey": "681a59e51f613193078c5cf0e74138fd",
+            "Quora-Broadcast-Id": "main-w-chan50-8888-react_twlonxdyxbfpaxgy-Evja",
+            "Quora-Revision": "7eaadac0fba1a1f04499e0029e76cac83029b994"
+        },
+        "payload":{
+            "extensions":{
+                "hash":"e6e06ddf5e65dbac47b6f0f72d9f4cfd01b7182731f3aa44590c35e15d348127"
+            },
+            "queryName":"SearchResultsListQuery",
+            "variables":{"query":"hiv","disableSpellCheck":null,
+            "resultType":"post",
+            "author":null,
+            "time":"all_times",
+            "first":10,
+            "after":"-1",
+            "tribeId":null
+            }
+        },
+        "cookies":{
+            "m-b_lax": "qW4Oe6NeR8Py1-v_ysx7GA==",
+            "m-b_strict": "qW4Oe6NeR8Py1-v_ysx7GA==", 
+            "m-s": "fe0-OgVlys1B4yBIZBPvoQ==", 
+            "m-uid": "1933693286", 
+            "m-lat": "hF04eFilhOUl1YptRZHwxg==", 
+            "m-login": "1", 
+            "m-theme": "light", 
+            "m-dynamicFontSize": "regular", 
+            "__stripe_mid": "67c9ccef-d97c-494e-9c63-4adaebe257d590410c", 
+            "__cf_bm": "FK0GJWut_JGUjkzbyf38yqN8huMnhcvXgdSZka8V_N4-1666971320-0-ARPcyKxh8cJ50fUkJX16udXwgBuhn7fqCeJeI7vpFR78V5n4ugwA9iTyioXsQgp8V82PYkOTo8B+/si4GTszG30=", 
+            "__stripe_sid": "aa637cce-62ec-49c6-996b-523ad9fe4680ec6d4b"
+        
+        }
+
+    }
+   }

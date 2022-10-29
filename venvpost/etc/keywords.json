@@ -1,0 +1,11 @@
+{
+    "fixed dose":["truvada", "atripla", "epzicom", "complera", "cimduo",
+                  "combivir", "descovy", "Temixys", "Trizivir", "Delstrigo",
+                  "Odefsey", "SymfiLo", "Biktarvy", "Dovato", "Triumeq",
+                  "Juluca", "Genvoya", "Stribild", "Kaletra", "Kivexa",
+                  "Triomune", "Duovir", "Evotaz", "Prezcobix", "Rezolsta",
+                  "Dutrebiz", "Symfi", "Eviplera", "Symtuza", "Cabenuva"],
+    "not fixed dose": ["viread","ftc","\"ftc treatment\"","3tc","hiv treatment",
+                       "isentress", "reyataz","norvir","sustiva","stocrin",
+                       "tivicay", "lamivudine","epivir"]
+}
